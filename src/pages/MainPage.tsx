@@ -21,7 +21,6 @@ export const MainPage = () => {
         <Education sectionId='education' />
       </main>
       <DockPanel />
-      <UserChat />
     </>
   )
 }

@@ -1,4 +1,4 @@
-export { default as headerPhoto } from './images/header-pic.webp'
+export { default as headerPhoto } from './images/header-pic.png'
 export { default as asx } from './images/site-mock.webp'
 export { default as tutiffy } from './images/mock-site2.webp'
 export { default as maven } from './images/mock-site3.webp'

@@ -26,4 +26,3 @@ Welcome to my portfolio website! Here you'll find information about my skills, p
 
 Feel free to explore and learn more about my work.
 
-[Visit My Portfolio](https://www.vladfrontend.pro/)

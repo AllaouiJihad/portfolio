@@ -11,7 +11,7 @@
     "ONLINE_STATUS": "online",
     "HI": "Hi",
     "HOW_ARE_YOU": "How are you?",
-    "NAME": "Vlad",
+    "NAME": "Jihad",
     "setting_buttons": {
       "DELETE_CHAT": "Disconnect",
       "DELETE_CHAT_HISTORY": "Delete chat history",
@@ -29,8 +29,8 @@
     "PROJECTS": "Projects"
   },
   "header": {
-    "NAME": "Hi! I'm Vlad",
-    "PATH": "Frontend",
+    "NAME": "Hi! I'm Jihad",
+    "PATH": "Full Stack",
     "SPECIALTY": "Developer",
     "DESCRIPTION": "Combining modern technology and creativity, I build websites and apps that will help you achieve your goals"
   },
@@ -39,18 +39,18 @@
     "SUBTITLE": "Transforming your ideas into reality with professional frontend development",
 
     "cards": {
-      "FRONT_END_DEVELOPMENT_TITLE": "Frontend development",
-      "FRONT_END_DEVELOPMENT_TEXT": "Development of UI and business logic using React/Next, TypeScript, and Redux",
+      "FRONT_END_DEVELOPMENT_TITLE": "Backend development",
+      "FRONT_END_DEVELOPMENT_TEXT": "Building and managing server-side logic, databases, and APIs using technologies like Spring Boot, Laravel.",
       "RESPONSIVE_DESIGN_TITLE": "Responsive design",
       "RESPONSIVE_DESIGN_TEXT": "Responsive websites and apps, ensuring optimal display on all devices and screen resolutions",
-      "API_BACKEND_INTEGRATION_TITLE": "API and backend integration",
-      "API_BACKEND_INTEGRATION_TEXT": "Work with APIs and the backend to implement web application functionality, including data exchange",
+      "API_BACKEND_INTEGRATION_TITLE": "Database management",
+      "API_BACKEND_INTEGRATION_TEXT": "Designing, optimizing, and managing relational and NoSQL databases such as PostgreSQL, MySQL",
       "PERFORMANCE_OPTIMIZATION_TITLE": "Performance optimization",
       "PERFORMANCE_OPTIMIZATION_TEXT": "Optimizing the performance of web applications for fast loading times and maximum responsiveness",
-      "CROSS_BROWSER_COMPATIBILITY_TITLE": "Cross-browser compatibility",
-      "CROSS_BROWSER_COMPATIBILITY_TEXT": "Ensuring compatibility of web applications with various browsers",
-      "TECHNICAL_SUPPORT_TITLE": "Technical support",
-      "TECHNICAL_SUPPORT_TEXT": "Updating and supporting existing code to ensure stable operation of the application"
+      "CROSS_BROWSER_COMPATIBILITY_TITLE": "Security best practices",
+      "CROSS_BROWSER_COMPATIBILITY_TEXT": "Implementing secure coding practices to protect web applications from vulnerabilities like XSS, CSRF, and SQL injection.",
+      "TECHNICAL_SUPPORT_TITLE": "Frontend development",
+      "TECHNICAL_SUPPORT_TEXT": "Development of user interfaces using modern frameworks like React, Angular"
     }
   },
   "education": {
@@ -58,22 +58,22 @@
     "SUBTITLE": "My education journey and the qualifications I have obtained",
     "table": {
       "udemy": {
-        "NAME": "Udemy",
+        "NAME": "Youcode Youssoufia",
         "POSITION": "Student",
-        "TITLE": "Frontend development",
-        "DESCRIPTION": "In-depth learning frontend technologies including JavaScript, TypeScript, React, and Redux"
+        "TITLE": "Software Development",
+        "DESCRIPTION": "Comprehensive training in software development with a focus on Java, Spring Framework, and web technologies."
       },
       "imt": {
-        "NAME": "IMT Academy",
+        "NAME": "EST Meknès",
         "POSITION": "Student",
-        "TITLE": "Web development",
-        "DESCRIPTION": "Learning HTML, CSS, JavaScript, and frameworks to create dynamic and responsive website"
+        "TITLE": "DUT in Software Engineering",
+        "DESCRIPTION": "Obtained a DUT with emphasis on programming, database management, and software design."
       },
       "institute": {
-        "NAME": "Institute of Engineering",
+        "NAME": "Lycée princesse Lalla Salma",
         "POSITION": "Student",
-        "TITLE": "Energy management",
-        "DESCRIPTION": "Learning of energy supply plans and strategies, energy optimization and cost minimization"
+        "TITLE": "Baccalauréat in Sciences Physiques",
+        "DESCRIPTION": "Developed strong foundations in mathematics, physics, and problem-solving skills"
       }
     }
   },
@@ -87,30 +87,29 @@
     "SUBTITLE": "My professional journey and work experience",
     "table": {
       "elementica": {
-        "NAME": "Elementica",
-        "POSITION": "Frontend developer",
-        "TITLE": "Creating web applications",
-        "DESCRIPTION": "At 'Elementica' as a frontend developer, I collaborated with the team to develop and enhance the product, made strategic technical decisions, and contributed to achieving our common goals. My responsibilities included: optimizing performance, ensuring high-quality code, and implementing innovative solutions to drive our product forward"
+        "NAME": "Media Digital Invest",
+        "POSITION": "Full-stack developer intern",
+        "TITLE": "Web application development and database management",
+        "DESCRIPTION": "During my internship, I worked on the design of user interfaces and database management for various projects. Developed a web application to manage the back-office of MDI using advanced tools and frameworks. TECHNOLOGIES: Laravel, React, MySQL, Figma, UML"
       },
       "freelance": {
-        "NAME": "Freelance",
-        "POSITION": "Web developer",
-        "TITLE": "Creating websites",
-        "DESCRIPTION": "I was creating websites for clients using HTML, CSS, Jquery, Bootstrap, Gulp.js, and JavaScript"
+        "NAME": "Astrolabe Media",
+        "POSITION": "Full-stack developer intern",
+        "TITLE": "Web application development",
+        "DESCRIPTION": "Created a web application in PHP to showcase the company's activities. Focused on building a user-friendly interface and functional back-end.TECHNOLOGIES: PHP, HTML, Bootstrap CSS, JavaScript, SQL"
       }
     }
   },
   "portfolio": {
     "TITLE": "Explore my projects",
-    "SUBTITLE": "Main commercial projects in development that I participated in both collaboratively with my team and independently",
+    "SUBTITLE": "Main projects I have developed and contributed to, showcasing my skills and expertise",
     "projects": {
       "tutiffy": {
-        "NAME": "Tuttify",
-        "DESCR": "Educational platform",
-        "MAIN_INFO": "Developed an educational platform for children and their parents. Core features include a live chat/video streams, live activities between users, internationalization, user generated content",
+        "NAME": "Citronix",
+        "DESCR": "Agricultural management system",
+        "MAIN_INFO": "Developed an innovative application to manage lemon farms, providing advanced agricultural tracking and efficient RESTful services.",
         "about": {
           "p_1": {
-            "TEXT_1": "Frontend team - 4 developers. Backend team - 4 developers. QA team - 2 developers.",
             "TEXT_2": "Main goal of this app is to empower children and students to explore, imagine and engage with ideas as they learn and to help parents or family members to communicate with children by participating in lessons, games, and even sharing story time.",
             "TEXT_3": "Project had a complex structure with 6 frontend apps and 7 backend microservices on Node.js and Python. Core features - live chat/video streams, live activities between users, multitenancy, internationalization, user generated content, moderation, kids accounts, payments, automated/manual tests, CI/CD, etc."
           },
@@ -225,11 +224,11 @@
       "LANG_SUB_TITLE": "Languages",
       "QUALITIES_SUB_TITLE": "Professional qualities",
       "GOT_IN_DEV_SUB_TITLE": "How I got into development",
-      "MY_CAREER": "I'm a Frontend developer with 2 years of commercial experience in creating applications of varying complexity. I always adhere to best development practices.",
-      "HOBBIES": "Sports, traveling, learning English, active leisure, and socializing with friends - these are the main aspects of my hobbies. I enjoy maintaining an active lifestyle, exploring new places, improving language skills, finding engaging ways to spend free time, and connecting with close friends.",
-      "DEVELOPMENT": "My passion for development began with small projects and experiments. Over time, I realized that I wanted to delve deeper into this field and made it my profession. I continued to learn, attended courses and workshops to expand my knowledge and skills. Now, I am happy to share my experience and help create unique and functional web applications.",
+      "MY_CAREER": "I'm a Full-stack developer with experience in building scalable and efficient web applications. My focus is on creating solutions that are both user-friendly and technically robust, adhering to industry best practices.",
+      "HOBBIES": "Sports, exploring new technologies, traveling, and spending time learning about software trends. I also enjoy contributing to collaborative projects and maintaining an active lifestyle",
+      "DEVELOPMENT": "My journey into development began with an interest in problem-solving and technology. I started with small projects and quickly discovered a passion for creating impactful software solutions. Over time, I honed my skills through education, internships, and self-learning, leading me to become a professional full-stack developer",
       "QUALITIE_TEAMWORK": "Teamwork:",
-      "QUALITIE_TEAMWORK_TEXT": "experienced in working collaboratively with team members and communicating effectively with colleagues.",
+      "QUALITIE_TEAMWORK_TEXT": "Proficient in collaborating with cross-functional teams to deliver high-quality results.",
       "QUALITIE_ADAPTABILITY": "Adaptability:",
       "QUALITIE_ADAPTABILITY_TEXT": "ready to work in a dynamic environment and make technical decisions to achieve common goals.",
       "QUALITIE_LEARNING": "Continuous learning:",
