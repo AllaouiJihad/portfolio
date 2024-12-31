@@ -22,15 +22,14 @@ export const SectionWithTimeline: FC<Props> = ({
     <>
       <SectionHead title={t(title)} subTitle={t(subTitle)} />
       {list?.map(
-        ({ place, position, date, description, img, url, id }, index) => (
+        ({ place, position, date, description, id }, index) => (
           <TimeLine
             key={id}
             namePlace={place}
             namePosition={position}
             date={date}
             description={description}
-            url={url}
-            imageSrc={img}
+            
             isActiveDot={isActiveDot && index === 0}
           />
         ),

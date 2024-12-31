@@ -110,47 +110,47 @@
         "MAIN_INFO": "Developed an innovative application to manage lemon farms, providing advanced agricultural tracking and efficient RESTful services.",
         "about": {
           "p_1": {
-            "TEXT_2": "Main goal of this app is to empower children and students to explore, imagine and engage with ideas as they learn and to help parents or family members to communicate with children by participating in lessons, games, and even sharing story time.",
-            "TEXT_3": "Project had a complex structure with 6 frontend apps and 7 backend microservices on Node.js and Python. Core features - live chat/video streams, live activities between users, multitenancy, internationalization, user generated content, moderation, kids accounts, payments, automated/manual tests, CI/CD, etc."
+            "TEXT_2": "The main goal of Citronix is to empower lemon farm managers with tools to track their agricultural activities, analyze data, and optimize productivity.",
+            "TEXT_3": "The project includes core functionalities such as field monitoring, tree management, harvest planning, and sales tracking, ensuring end-to-end farm management."
           },
           "p_2": {
-            "TEXT_1": "On the project, I focused on interface development, including creating user-friendly navigation, designing and placing educational content, and interacting with the backend through REST API or GraphQL.",
-            "TEXT_2": "Additionally, I worked on enhancing the user experience by adding animations, intuitive controls, and optimized workflows.",
-            "TEXT_3": "Overall, working on the project was an interesting and productive experience that helped me develop skills in frontend development, multilingual support, and web application performance optimization."
+            "TEXT_1": "I worked on building a robust layered architecture that separates business logic, data management, and user interactions.",
+            "TEXT_2": "This project enhanced my skills in backend development, RESTful API design, data validation, and database management. Additionally, I gained experience working with modern frameworks such as Spring Boot, Lombok, and Liquibase.",
+            "TEXT_3": "The backend was developed using Spring Boot, ensuring efficient RESTful APIs and robust data validation. Liquibase was used for database migration management."
           }
         }
       },
       "ASX": {
-        "NAME": "ASX Sports",
-        "DESCR": "Sports betting platform",
-        "MAIN_INFO": "Developed a sports betting platform. Core features include a selection of sports and bet types, live streaming, statistics and analytics, a personal wallet, as well as bonuses and promotions",
+        "NAME": "Hunter's League",
+        "DESCR": "Competition Management System",
+        "MAIN_INFO": "Designed and developed a platform to modernize hunting competition management, including participant registration, score tracking, and species consultation.",
         "about": {
           "p_1": {
-            "TEXT_1": "Frontend team - 2 developers. Backend team - 2 developers. QA team - 1 developer.",
-            "TEXT_2": "The project was a multifaceted platform that allowed users to register their accounts, buy in-game currency, and place bets on their favorite teams during live streams.",
-            "TEXT_3": "Consisted of a core platform as well as an admin panel through which the administrator could fully manage the core application and user support."
+            "TEXT_1": "The main objective of Hunter's League is to streamline the management of hunting competitions for clubs, participants, and administrators.",
+            "TEXT_2": "The platform includes features like user registration, secure login, competition score management, and species database consultation.",
+            "TEXT_3": "I implemented core functionalities such as CRUD operations for users and competitions, validation of user inputs, and password security using hashing techniques."
           },
           "p_2": {
-            "TEXT_1": "The app is developed using Next for the frontend part and Express for the backend part.",
-            "TEXT_2": "On the project I was engaged in development of UI components, implementation of new features such as - full user registration using Keycloack, connection of Stripe payment system, connection of SumSab library for user verification, etc. I also got experience in the backend.",
-            "TEXT_3": "What I found interesting was participating in rallies with the CTO and the customer where we discussed the business logic of the application. I also enjoyed expressing my ideas, which in the future were turned into reality."
+            "TEXT_1": "The backend was built with Spring Boot, utilizing Liquibase for database migration and MapStruct for efficient DTO transformations. The application adheres to a layered architecture with centralized exception handling.",
+            "TEXT_2": "Advanced features like competition score calculation based on specific criteria and multilingual support were also included.",
+            "TEXT_3": "This project enhanced my expertise in backend development, security best practices, and creating efficient APIs. I also gained experience in managing complex business logic and validating data effectively."
           }
         }
       },
       "maven": {
-        "NAME": "Maven 11",
-        "DESCR": "Landing page for a crypto fund",
-        "MAIN_INFO": "Developed a landing page for a cryptocurrency fund include an attractive design, information about the fund and its transparency, interactive charts, investor testimonials",
+        "NAME": "Evento",
+        "DESCR": "Event Management and Reservation Platform",
+        "MAIN_INFO": "Developed an innovative platform to manage event reservations and ticketing, providing seamless experiences for users, organizers, and administrators.",
         "about": {
           "p_1": {
-            "TEXT_1": "Frontend team - 1 developer. QA team - 1 developer.",
-            "TEXT_2": "Landing page for a foundation, main goal to attract new clients.",
-            "TEXT_3": "The project is implemented using HTML, SCSS, and the GSAP library. The task I was given was to create a dynamic website using animations."
+            "TEXT_1": "Evento aims to revolutionize event management by offering tools for discovering, reserving, and managing events efficiently.",
+            "TEXT_2": "The platform provides distinct functionalities for users, organizers, and administrators, including user-friendly reservation systems, event creation tools, and administrative oversight.",
+            "TEXT_3": "I implemented critical features such as user authentication, secure password resets, event filtering by category, and reservation ticket generation."
           },
           "p_2": {
-            "TEXT_1": "On the project, I did the development on my own under the guidance of the CTO. I solved all the technical tasks and problems myself, which gave me experience in organizing projects.",
-            "TEXT_2": "The interesting and challenging part for me was working with the GSAP library, where it took a lot of time to learn all the intricacies and the right approach, which gave me additional experience in developing complex animations.",
-            "TEXT_3": "Also together with QA we conducted functional testing and fixed all the issues in a short period of time."
+            "TEXT_1": "For organizers, I developed tools to create and manage events, analyze reservation statistics, and manage approval workflows.",
+            "TEXT_2": "Administrators benefit from category management, event validation, user restrictions, and access to platform-wide statistics.",
+            "TEXT_3": "Technically, the project was built using Laravel, leveraging its robust features for CRUD operations, middleware validation, and Eloquent ORM for database management."
           }
         }
       }

@@ -11,8 +11,6 @@ type Props = {
   namePosition: string
   date: string | number
   description: string
-  url: string
-  imageSrc: string
   isActiveDot?: boolean
 }
 
@@ -22,8 +20,6 @@ export const TimeLine: FC<Props> = ({
   date,
   isActiveDot,
   description,
-  imageSrc,
-  url,
 }) => {
   return (
     <div className={styles.timeLineContainer}>
@@ -40,7 +36,7 @@ export const TimeLine: FC<Props> = ({
 
       <div>
         <div className={styles.infoHead}>
-          <PreviewLink href={url} imageSrc={imageSrc}>
+          <PreviewLink href="#" imageSrc="">
             <div className={styles.titleWrap}>
               <Title
                 style={{ margin: 0 }}
@@ -50,7 +46,7 @@ export const TimeLine: FC<Props> = ({
               >
                 {namePlace}
               </Title>
-              {url !== '#' && <TfiNewWindow size='0.7em' />}
+              { <TfiNewWindow size='0.7em' />}
               <small className={styles.dateMobile}>{date}</small>
             </div>
           </PreviewLink>

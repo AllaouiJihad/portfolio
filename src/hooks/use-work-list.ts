@@ -13,8 +13,6 @@ export const useWorkList = () => {
       position: t('workHistory.table.elementica.POSITION'),
       date: '2022 - 2024',
       title: t('workHistory.table.elementica.TITLE'),
-      url: COMPANY_URL,
-      img: elementicaHomePage,
       description: t('workHistory.table.elementica.DESCRIPTION'),
     },
     {
@@ -23,8 +21,7 @@ export const useWorkList = () => {
       position: t('workHistory.table.freelance.POSITION'),
       date: '2021 - 2022',
       title: t('workHistory.table.freelance.TITLE'),
-      url: '#',
-      img: '',
+      
       description: t('workHistory.table.freelance.DESCRIPTION'),
     },
   ]

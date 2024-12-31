@@ -12,7 +12,7 @@ export const technologies = [
   'Mockito', 
   'Docker',
   'HTML', 
-  'CSS', 
+  'CSS',  
   'JavaScript', 
   'Figma'
 

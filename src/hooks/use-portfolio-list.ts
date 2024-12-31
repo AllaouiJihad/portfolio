@@ -19,7 +19,6 @@ export const usePortfolioList = () => {
     {
       id: 1,
       link: TUTTIFY_URL,
-      srcPageFirst: tutiffyPageRirst,
       srcPageSecond: tutiffyPageSecond,
       src: tutiffy,
       project: t('portfolio.projects.tutiffy.NAME'),
@@ -37,15 +36,14 @@ export const usePortfolioList = () => {
             textTwo: t('portfolio.projects.tutiffy.about.p_2.TEXT_2'),
             textThree: t('portfolio.projects.tutiffy.about.p_2.TEXT_3'),
           },
-          stack:
-            '#React #TypeScript #Redux Toolkit #RTK Query #Apollo GraphQL #i18next #Material UI',
+          stack: '#Java #Spring Boot #PostgreSQL #Lombok #MapStruct #REST API #JUnit #Liquibase #Builder Pattern'  
+
         },
       ],
     },
     {
       id: 2,
       link: ASX_URL,
-      srcPageFirst: asxPageFirst,
       srcPageSecond: asxPageSecond,
       src: asx,
       project: t('portfolio.projects.ASX.NAME'),
@@ -63,15 +61,14 @@ export const usePortfolioList = () => {
             textTwo: t('portfolio.projects.ASX.about.p_2.TEXT_2'),
             textThree: t('portfolio.projects.ASX.about.p_2.TEXT_3'),
           },
-          stack:
-            '#Next #TypeScript #Redux Toolkit #RTK Query #Express #Stripe #SamSub #Keycloack #Radix UI',
+          stack: '#Spring Boot #Java #PostgreSQL #Spring Security #MapStruct  #JUnit #REST API #Liquibase'  
+
         },
       ],
     },
     {
       id: 3,
       link: MAVEN_URL,
-      srcPageFirst: mavenPageRirst,
       srcPageSecond: mavenPageSecond,
       src: maven,
       project: t('portfolio.projects.maven.NAME'),
@@ -89,7 +86,7 @@ export const usePortfolioList = () => {
             textTwo: t('portfolio.projects.maven.about.p_2.TEXT_2'),
             textThree: t('portfolio.projects.maven.about.p_2.TEXT_3'),
           },
-          stack: '#HTML #JavaScript #SCSS #GSAP #Gulp',
+          stack: '#Laravel #PHP #MySQL #Blade Templates #REST API #JavaScript #Bootstrap #OAuth2 #Eloquent ORM'  
         },
       ],
     },

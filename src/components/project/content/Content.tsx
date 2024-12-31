@@ -18,7 +18,7 @@ export const Content: FC<Props> = ({ aboutProject, project }) => {
       </ul>
 
       <div className={styles.contentImg}>
-        <img src={project?.srcPageFirst} alt='project picture' />
+        {/* <img src={project?.srcPageFirst} alt='project picture' /> */}
       </div>
 
       <div className={styles.contentImg}>

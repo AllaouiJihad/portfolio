@@ -9,7 +9,6 @@ export type AboutType = {
 export type PortfolioListType = {
   id: number
   link: string
-  srcPageFirst: string
   srcPageSecond: string
   src: string
   project: string
