@@ -3,6 +3,7 @@
   "private": true,
   "version": "2.9.9",
   "type": "module",
+  "homepage": "https://allaouijihad.github.io/portfolio/",
   "scripts": {
     "dev": "vite",
     "start": "vite",
