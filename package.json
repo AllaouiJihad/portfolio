@@ -17,9 +17,7 @@
     "lint:fix": "npm run lint -- --fix",
     "type-check": "tsc --noEmit",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-
-
+    "deploy": "vite build && gh-pages -d dist"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
