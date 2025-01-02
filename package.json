@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vite",
     "start": "vite",
-    "build": "tsc && vite build",
+    "build": "vite build",
     "host": "vite --host",
     "update-version": "node update-version.js",
     "preview": "vite preview",
@@ -17,7 +17,7 @@
     "lint:fix": "npm run lint -- --fix",
     "type-check": "tsc --noEmit",
     "predeploy": "npm run build",
-    "deploy": "vite build && gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
